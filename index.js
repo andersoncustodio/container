@@ -33,4 +33,4 @@ Container.prototype.get = function(key) {
     return definition;
 };
 
-exports.default = Container;
+exports.Container = Container;

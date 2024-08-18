@@ -1,6 +1,6 @@
 {
   "name": "@andersoncustodio/container",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Dependency Injection Container",
   "main": "index.js",
   "types": "index.d.ts",
