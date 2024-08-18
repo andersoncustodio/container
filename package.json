@@ -1,0 +1,13 @@
+{
+  "name": "@andersoncustodio/container",
+  "version": "1.0.0",
+  "description": "Dependency Injection Container",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": ["di", "dependency", "injection", "container"],
+  "author": "Anderson Custódio <npmjs@andersoncustodio.com>",
+  "license": "MIT"
+}
